@@ -1,0 +1,1 @@
+{"pge": {"optimal_clusters": 9, "avg_silhouette_score": -0.048169806599617004, "avg_v_score": 0.43858310951109575}, "resnet50": {"optimal_clusters": 9, "avg_silhouette_score": -0.02737603150308132, "avg_v_score": 0.5388932785286977}, "vgg16": {"optimal_clusters": 9, "avg_silhouette_score": -0.012923684902489185, "avg_v_score": 0.6141996275893651}}
